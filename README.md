@@ -18,6 +18,12 @@
 </div>
   
   ##
+  
+- 🌱 I’m currently learning HTML, CSS3, JavaScript
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: Comecei a programar através da Semana Omnistack da Rocketseat!
+  
+  ##
  
 <div> 
   <a href="https://www.instagram.com/guiermis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,12 +38,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning HTML, CSS3, JavaScript
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: Comecei a programar através da Semana Omnistack da Rocketseat!
 -->
