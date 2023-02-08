@@ -1,4 +1,4 @@
-### Um Salve GIGANTE! 👋
+### SA-LU-TATIONS! 👋
 
 ##
 
@@ -19,9 +19,11 @@
   
   ##
   
-- 🌱 I’m currently learning HTML, CSS3, JavaScript
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Comecei a programar através da Semana Omnistack da Rocketseat!
+- 🌱 I’m currently learning Python, R and SQL
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Japanese Art, and of course, bad puns.
+- 💬 Quote: "You can teach a man to fish, but you can't teach a fish to man"
+- 👥 Currently graduating in Data Science Major.
   
   ##
  
