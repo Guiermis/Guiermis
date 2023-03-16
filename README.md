@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Guiga-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Guiga-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Guiga-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
   <img align="right" alt="Misato-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/81/8a/25/818a255c7d3bda1bcb554ee08e2c0980.jpg">
 </div>
   
